@@ -30,8 +30,6 @@ A aplicação frontend deve utilizar o backend construído no desafio anterior [
 
 ## Instalar e executar o projeto: 
 
-> O projeto [backend](https://github.com/brvictorsa/desafio-conceitos-nodejs) deve estar rodando previamente seguindo os passos descrito no arquivo README.md.
-
 1. Clonar o projeto para seu local de trabalho (via HTTPS).
 
 2. Executar o comando *yarn* no terminal para baixar as dependências do projeto.
