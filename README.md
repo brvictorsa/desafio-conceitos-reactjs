@@ -24,7 +24,13 @@ A aplicação frontend deve utilizar o backend construído no desafio anterior [
 
 * **Remover um repositório da sua API**: Para cada item da sua lista, deve possuir um botão com o texto Remover que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
+## Pré-requisito 
+
+> O projeto [backend](https://github.com/brvictorsa/desafio-conceitos-nodejs) deve estar rodando previamente seguindo os passos descritos no arquivo README.md.
+
 ## Instalar e executar o projeto: 
+
+> O projeto [backend](https://github.com/brvictorsa/desafio-conceitos-nodejs) deve estar rodando previamente seguindo os passos descrito no arquivo README.md.
 
 1. Clonar o projeto para seu local de trabalho (via HTTPS).
 
@@ -38,7 +44,7 @@ yarn //or npm install
 yarn start //or npm run start
 ```
 
-3. Executar os testes do backend utilziando o *jest* e o *react testing library*.
+3. Executar os testes do backend utilizando o *jest* e o *react testing library*.
 ```js
 yarn test  //or npm run test
 ```
